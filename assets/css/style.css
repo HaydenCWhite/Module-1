@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* Background Color */
 body {
     background-color: #d9dcd6;
 }
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Background Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -86,27 +88,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Benefit colors */
 .benefit-content {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
-
+/* Benefit headers */
 .benefit-content h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
-
+/* Benefit images */
 .benefit-content img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* Sets text size and font for the main content */
 .content-image {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,11 +117,12 @@ p {
     color: #ffffff;
 }
 
-
+/* Image size for main content */
 .content-image img {
     max-height: 200px;
 }
 
+/* Main cntent header size and location */
 .content-image h2 {
     margin-bottom: 20px;
     font-size: 36px;
